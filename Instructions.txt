@@ -1,0 +1,19 @@
+###########
+
+To Download the Repo:-
+
+git clone https://github.com/notoriousgroup/(Enter the name of your repo here).git
+
+To upload the Repo after making the changes:-
+
+step 1: cd (address of the cloned folder)
+
+step 2: git add .
+
+step 3: git commit -m "Enter any message here"
+
+step 4: git push
+
+step 5: Enter your username press enter
+
+step 6: Enter the password which will not be visible
